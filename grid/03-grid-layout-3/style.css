@@ -68,6 +68,12 @@
   font-weight: normal;
 }
 
+.side-content,
+.photo {
+  display: grid;
+  align-items: center;
+}
+
 .nav {
   background-color: #C50208;
   grid-row: 2;
